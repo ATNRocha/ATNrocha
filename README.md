@@ -6,6 +6,9 @@ comentar, compartilhar e testar meus projetos.
 # Meus Principais Projetos
 
 https://atnrocha.github.io/NewsletterAlura/
+
+https://atnrocha.github.io/pagina-fintech-responsiva/
+
 <!--
 **ATNRocha/ATNrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
