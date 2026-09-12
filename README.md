@@ -1,4 +1,3 @@
-[README_FINAL.md](https://github.com/user-attachments/files/32148510/README_FINAL.md)
 <div align="center">
 
 # André Rocha
